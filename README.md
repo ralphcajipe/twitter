@@ -1,5 +1,5 @@
 # The Twitter Archive
-A compilation of the most relevant Machine Learning/A.I. and Software Engineering content I've posted on Twitter. They are short and meaningful to read.
+A compilation of the most relevant Machine Learning/A.I. and Software Engineering content I've posted on Twitter.
 
 ## Machine Learning
 
