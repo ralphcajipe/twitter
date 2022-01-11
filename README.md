@@ -1,5 +1,5 @@
 # The Twitter Archive
-A compilation of the most relevant content I've posted on Twitter.
+A compilation of the most relevant content I've posted on Twitter. They are short and meaningful to read.
 
 ## Machine Learning
 
