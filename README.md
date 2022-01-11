@@ -31,6 +31,10 @@ A compilation of the most relevant content I've posted on Twitter.
 
 * [A nice appetizer to get you into machine learning](https://twitter.com/ralphcode/status/1405870352656310274?s=20) — A nice appetizer to get you into machine learning. This free tutorial by #w3schools has real-world examples of using traditional ML library — scikit-learn and tools like NumPy, pandas, & Matplotlib. It's light & a good read to feed for your brain :)
 
+* [Making Machine Learning Better](https://twitter.com/ralphcode/status/1409856203635642368?s=20) — Oh machine learning, I am starting to learn your way of betterment. Improved algorithms are a home burger. Better datasets turn it into Burger King and more touch of Heinz.
+
+* []() 
+
 ## Machine Learning in the Real World
 
 * [Real-world Machine Learning](https://twitter.com/ralphcode/status/1392444265741963268?s=20) — In real-world machine learning systems that model things change frequently, such as weather or traffic, it's common to set up an automated training process to run on a regular basis, such as daily or weekly. This keeps the system up-to-date as the data changes.
@@ -49,6 +53,12 @@ A compilation of the most relevant content I've posted on Twitter.
 * [The best show about machine learning/AI](https://twitter.com/ralphcode/status/1402262573119160320?s=20) — The best show about machine learning/AI is Netflix and tvN’s Korean Drama entitled Start-Up (2020). If you haven't already guessed, this series is about the world of tech "startups" where there is a focus on machine learning/AI.
 
 * [How can you build models with less training data?](https://twitter.com/ralphcode/status/1406248216534798338?s=20) — Dale discusses her expertise to an often and interesting question in machine learning — "How can you build models with less training data?"
+
+* [Self-driving cars](https://twitter.com/ralphcode/status/1412743551364993031?s=20) — Self-driving cars will be like videoconferencing, which was mocked for decades before becoming more important because of the pandemic. A thread.
+
+* [YouTube Music](https://twitter.com/ralphcode/status/1414581528944779280?s=20) — music.youtube.com web app is so fun. I think its machine learning-based recommendation system is more impressive than Spotify. It just gives the music that I really like, unlike Spotify that bombards me with out-of-place songs and ads. Felt like my house was at a concert.
+
+* [TikTok](https://twitter.com/ralphcode/status/1419345618464481282?s=20) — TikTok videos are short, it can show you more per hour, allowing it to learn more about you faster. In order for TikTok to improve itself over time, it's machine learning and human intelligence. Its competitive business model to nail users' preferences on pop culture is a beast.
 
 ## Math in Machine Learning
 
