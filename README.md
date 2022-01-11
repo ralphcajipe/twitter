@@ -33,7 +33,9 @@ A compilation of the most relevant Machine Learning/A.I. and Software Engineerin
 
 * [Making Machine Learning Better](https://twitter.com/ralphcode/status/1409856203635642368?s=20) — Oh machine learning, I am starting to learn your way of betterment. Improved algorithms are a home burger. Better datasets turn it into Burger King and more touch of Heinz.
 
-* []() 
+* [One of the best ways to explain machine learning visually](https://twitter.com/ralphcode/status/1425458580321280002?s=20) — One of the best ways to explain machine learning visually to a computer science student.
+
+* [Machine Learning in 6 Levels of Understanding](https://twitter.com/ralphcode/status/1437410382511947780?s=20) 
 
 ## Machine Learning in the Real World
 
@@ -60,13 +62,21 @@ A compilation of the most relevant Machine Learning/A.I. and Software Engineerin
 
 * [TikTok](https://twitter.com/ralphcode/status/1419345618464481282?s=20) — TikTok videos are short, it can show you more per hour, allowing it to learn more about you faster. In order for TikTok to improve itself over time, it's machine learning and human intelligence. Its competitive business model to nail users' preferences on pop culture is a beast.
 
+* [THE FIRST RULE OF MACHINE LEARNING](https://twitter.com/ralphcode/status/1447855881576534016?s=20) — THE FIRST RULE OF MACHINE LEARNING from Google.
+
 ## Math in Machine Learning
 
 * [Math in Machine Learning Should Not Discourage Newcomers](https://twitter.com/ralphcode/status/1400015496674643970?s=20) — While math is important in machine learning, it should not be prioritized to the point of discouraging newcomers. The important thing to remember is to avoid becoming overwhelmed by the sheer number of algorithms available and to keep the fundamentals in mind. 
 
+* [The four math needed to understand how machine learning works "behind the scenes"](https://twitter.com/ralphcode/status/1450728114678423559?s=20)
+
 ## Roles in Artificial Intelligence
 
 * [Computer Scientists, Software Engineers, Data Scientists, ML/AI Engineers](https://twitter.com/ralphcode/status/1407670003432710147?s=20) — • Computer Scientists find the algorithms. Software Engineers build a way to distribute those algorithms into software. ~ • Data Scientists find the data. Machine Learning/A.I. Engineers build a way to distribute those data into intelligence.
+
+## 30 Days of ML by Google's Kaggle
+
+* _I'm writing..._
 
 ## Software Engineering
 
